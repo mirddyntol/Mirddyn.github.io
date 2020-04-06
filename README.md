@@ -23,6 +23,7 @@
 			<li>hij kan coderen</li>
 			<li>en nog veel meer</li>
 		</ol>
+		<p>doei!</p>
 		<hr />
 		copyright &copy; 2020 Mirddyn Tol
 	</body>
